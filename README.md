@@ -1,5 +1,8 @@
 # apm
 
+This code is a sample implementation of a very basic APM system, written for an article that looks at the basics of how to do this implementation for The Relicans blog: [https://www.therelicans.com/wyhaines/the-basicest-basics-of-how-an-apm-system-works-847](https://www.therelicans.com/wyhaines/the-basicest-basics-of-how-an-apm-system-works-847)
+
+Refer to that article for the full details on what is found here.
 
 ## Installation
 
@@ -19,15 +22,9 @@
 require "apm"
 ```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/apm/fork>)
+1. Fork it (<https://github.com/wyhaines/apm-therelicans/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -35,4 +32,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Kirk Haines](https://github.com/your-github-user) - creator and maintainer
+- [Kirk Haines](https://github.com/wyhaines) - creator and maintainer
