@@ -1,5 +1,3 @@
-require "http/server/handlers/log_handler"
-
 module Apm
   record Span, label : String = "", start : Time::Span? = nil, finish : Time::Span? = nil do
     def to_s
